@@ -1,6 +1,6 @@
 # Data Cleaning and Exploration: Hotels in Munnar, Kerala
 
-This repository contains the code and analysis for data cleaning and exploration of the "Hotels in Munnar, Kerala" dataset. This project is part of the week-long event called "Imersão de Dados: Análise com IA" organized by Alura.
+This repository contains the code and analysis for data cleaning and exploration of the "Hotels in Munnar, Kerala" dataset. This project is part of the week-long event called "Imersão de Dados: Análise com IA" organized by Alura that happened in September 2023.
 
 ## Dataset Information
 
